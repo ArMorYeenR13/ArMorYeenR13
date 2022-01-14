@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-
+just a student only finding out about CS recently! 
+Diving into all sorts of ✨topics✨and this will all be recorded here maybe... 😵‍💫
 
 
 
