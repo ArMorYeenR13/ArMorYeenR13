@@ -6,6 +6,14 @@ Diving into all sorts of ✨topics✨
 and this will all be recorded here maybe... 😵‍💫
 
 
+- 🔭 I’m currently working on a Portfolio Website 🔧
+- 🌱 I’m currently learning  ~~HTML~~ , ~~CSS~~ , JS
+- additional frameworks/library -> React, Sass , Tailwind , Bootstrap
+- Goal: responsive, eye candy portfolio but lets be real, its not gonna happen
+
+
+- Side reading --> CompTia A+ , CompTia Network+ , LaTeX 
+
 
 
 
