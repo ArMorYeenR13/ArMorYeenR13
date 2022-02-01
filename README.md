@@ -12,7 +12,7 @@ and this will all be recorded here maybe... 😵‍💫
 - Goal: responsive, eye candy portfolio but lets be real, its not gonna happen
 
 
-- Side reading --> CompTia A+ , CompTia Network+ , LaTeX 
+- Side reading --> CompTia A+ , CompTia Network+ , LaTeX , Git cuz i suk :( 
 
 
 
