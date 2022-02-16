@@ -9,8 +9,11 @@ and this will all be recorded here maybe... 😵‍💫
 - 🔭 I’m currently working on a Portfolio Website 🔧
 - 🌱 I’m currently learning  ~~HTML~~ , ~~CSS~~ , JS  (currently on CSS grids)
 - additional frameworks/library -> React, Sass , Tailwind , Bootstrap
+- might learn Next.js ?? idk 🤐
 - Goal: responsive, eye candy portfolio but lets be real, its not gonna happen
 
+- Main focus for now -> AI , TOC , FSAD 
+(hopefully finish current week notes within 4 days of the week 😅)
 
 - Side reading --> CompTia A+ , CompTia Network+ , LaTeX , Git cuz i suk :( 
 
