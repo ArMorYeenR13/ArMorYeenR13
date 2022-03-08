@@ -18,7 +18,7 @@ and this will all be recorded here maybe... 😵‍💫
 - Side reading --> CompTia A+ , CompTia Network+ , LaTeX , Git cuz i suk :( 
 
 
-
+currently trying to catch up school content :v 
 
 
 
