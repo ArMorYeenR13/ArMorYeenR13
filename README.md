@@ -15,7 +15,7 @@ and this will all be recorded here maybe... 😵‍💫
 - Main focus for now -> AI , TOC , FSAD 
 (hopefully finish current week notes within 4 days of the week 😅)
 
-- Side reading --> CompTia A+ , CompTia Network+ , LaTeX , Git cuz i suk :( 
+- Side reading --> CompTia A+ , CompTia Network+ , LaTeX 
 
 
 currently trying to catch up school content :v 
