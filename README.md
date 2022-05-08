@@ -10,8 +10,10 @@ and this will all be recorded here maybe... 😵‍💫
 - 🌱 I’m currently learning  ~~HTML~~ , ~~CSS~~ , JS  ,~~Basics on React 🥳,~~ (Currently on Three.js, Blender, Advanced React🤔)
 - additional frameworks/library -> React, Sass , Tailwind , Bootstrap
 - might learn Next.js ?? idk 🤐
-- Goal: responsive, eye candy portfolio but lets be real, its not gonna happen
 
+ 
+- Goal: responsive, eye candy portfolio but lets be real, its not gonna happen
+- Future Projects : Visualization tools, Cloud Computing -> AWS, Ricing :), (very in the future -> Unity) 
 - Main focus for now -> AI , TOC , FSAD 
 (hopefully finish current week notes within 4 days of the week 😅)
 
