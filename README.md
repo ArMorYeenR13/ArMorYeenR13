@@ -14,8 +14,7 @@ and this will all be recorded here maybe... 😵‍💫
  
 - Goal: responsive, eye candy portfolio but lets be real, its not gonna happen
 - Future Projects : Visualization tools, Cloud Computing -> AWS, Ricing :), (very in the future -> Unity) 
-- Main focus for now -> AI , TOC , FSAD 
-(hopefully finish current week notes within 4 days of the week 😅)
+- Main focus for now -> Ricing (setting up my workspace, Learning C++/C, Learning Rust, Playing with threejs)  
 
 - Side reading --> CompTia A+ , CompTia Network+ , LaTeX 
 
