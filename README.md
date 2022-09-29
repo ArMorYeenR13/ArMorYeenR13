@@ -9,7 +9,7 @@ and this will all be recorded here maybe... 😵‍💫
 - 🔭 I’m currently working on a Portfolio Website 🔧
 - 🌱 I’m currently learning  ~~HTML~~ , ~~CSS~~ , JS  ,~~Basics on React 🥳,~~ (Currently on Three.js, Blender, Advanced React🤔, D3, Chartjs)
 - additional frameworks/library -> React, Sass , Tailwind , Bootstrap
-- might learn TS/Nodejs ?? idk 🤐
+- 🤐
 
  
 - Goal: responsive, eye candy portfolio but lets be real, its not gonna happen
