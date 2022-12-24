@@ -7,21 +7,16 @@ and this will all be recorded here maybe... 😵‍💫
 
 
 - 🔭 I’m currently working on a Portfolio Website 🔧
-- 🌱 I’m currently learning  ~~HTML~~ , ~~CSS~~ , JS  ,~~Basics on React 🥳,~~ (Currently on Three.js, Blender, Advanced React🤔, D3, Chartjs)
+- 🌱 I’m currently learning  ~~HTML~~ , ~~CSS~~ , JS  ,~~Basics on React 🥳,~~ (Currently on Three.js, Blender, Advanced React🤔)
 - additional frameworks/library -> React, Sass , Tailwind , Bootstrap
 - 🤐
 
  
 - Goal: responsive, eye candy portfolio but lets be real, its not gonna happen
 - Future Projects : Visualization tools, Cloud Computing -> AWS, Ricing :), (very in the future -> Unity) 
-- Main focus for now -> Ricing (setting up my workspace, Learning C++/C, Learning Rust, Playing with threejs)  
+- Main focus for now -> (Playing with threejs)  
 
-- Side reading --> CompTia A+ , CompTia Network+ , LaTeX 
-
-
-currently trying to catch up school content :v 
-
-
+- Side reading --> CompTia A+ , CompTia Network+
 
 
 <!--
