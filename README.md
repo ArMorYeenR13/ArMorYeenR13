@@ -5,14 +5,10 @@ Diving into all sorts of ✨topics✨
 <br>
 and this will all be recorded here maybe... 😵‍💫
 
-
-- 🔭 I’m currently working on a Portfolio Website 🔧
 - 🌱 I’m currently learning  ~~HTML~~ , ~~CSS~~ , JS  ,~~Basics on React 🥳,~~ (Currently on Three.js, Blender, Advanced React🤔)
 - additional frameworks/library -> React, Sass , Tailwind , Bootstrap
 - 🤐
 
- 
-- Goal: responsive, eye candy portfolio but lets be real, its not gonna happen
 - Future Projects : Visualization tools, Cloud Computing -> AWS, Ricing :), (very in the future -> Unity) 
 - Main focus for now -> (Playing with threejs)  
 
